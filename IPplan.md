@@ -14,6 +14,4 @@
 
 - MongoDB er konfigurert med:
   - bindIp: 0.0.0.0 (for intern tilgang)
-- Brannmur:
-  - Tillater kun trafikk fra backend VM
 - Database er ikke eksponert mot internett
